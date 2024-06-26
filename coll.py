@@ -26,3 +26,10 @@
 # print(myFavoriteFruitDictionary["Akua"])
 # print(myFavoriteFruitDictionary["Saanvi"])
 # print(myFavoriteFruitDictionary["Paulo"])
+pi = 3.14
+def add():
+    add = pi ** radius **2
+    return add
+radius = int(input("enter the radius"))
+area = add()
+print(area)
